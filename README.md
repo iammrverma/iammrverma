@@ -1,4 +1,4 @@
-<img align="right" alt="banner" width=400 src="assets/banner.png">
+<img align="center" alt="banner"  src="banner.png">
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">A greedy and curious learner and programmer.</h3>
 <img align="right" alt="coding gif" width=400 src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47z340nz4t1gfjld7v3csqp8cto8yjwcv0i0zmlr31&rid=giphy.gif&ct=g">
