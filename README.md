@@ -1,20 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">A greedy and curious learner and programmer.</h3>
-<img align="right" alt="coding gif" width=480 src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47z340nz4t1gfjld7v3csqp8cto8yjwcv0i0zmlr31&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammrverma" alt="iammrverma" /></a> </p>
+<img align="right" alt="coding gif" width=400 src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47z340nz4t1gfjld7v3csqp8cto8yjwcv0i0zmlr31&rid=giphy.gif&ct=g">
 
-- 👨‍💻 All of my projects are available at [iammrverma.github.io](iammrverma.github.io)
+- 👨‍💻 All of my projects are available at https://iammrverma.github.io/
 
-- 📝 I regularly write articles on [iammrverma.github.io](iammrverma.github.io)
+- 📝 I regularly write articles on https://iammrverma.github.io/
 
 - 💬 Ask me about **Python, Python pygame,**
 
 - 📫 How to reach me **rajwebz2020@gmail.com**
 
-- 📄 Know about my experiences [iammrverma.github.io/resume](iammrverma.github.io/resume)
+- 📄 Know about my experiences https://iammrverma.github.io/
 
 - ⚡ Fun fact **Pygame games are not for publishing.**
 
@@ -22,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/_iammrverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iammrverma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iammrverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iammrverma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www.hackerrank.com/rajwebz2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/rajwebz2020" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajwebz2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/rajwebz2020" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iammrverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammrverma" height="30" width="40" /></a>
 </p>
 
