@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>iammeverma | Raj Verma</title>
+        <title>iammrverma | Raj Verma</title>
         <meta name="description" content="Welcome to iammrverma.tech, the personal portfolio site of Raj Verma, digitally known as iammrverma. Explore my projects, blogs, and achievements, and connect with me for collaboration and ideas." />
 
       </Head>
