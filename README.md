@@ -4,19 +4,13 @@
 
 <img align="right" alt="coding gif" width=400 src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47z340nz4t1gfjld7v3csqp8cto8yjwcv0i0zmlr31&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **SQL, DSA**
+- 👨‍💻 All of my projects are available at [Investigate](iammrverma.com.projects)
 
-- 👯 I’m looking to collaborate on [Python](github.com/iammrverma/chess)
-
-- 👨‍💻 All of my projects are available at [iammrverma.github.io](iammrverma.github.io)
-
-- 📝 I regularly write articles on [iammrverma.github.io](iammrverma.github.io)
+- 📝 I regularly write articles on [Read](https://medium.com/@iammrverma)
 
 - 💬 Ask me about **Python, Python pygame,**
 
-- 📫 How to reach me **rajwebz2020@gmail.com**
-
-- 📄 Know about my experiences [iammrverma.github.io/resume](iammrverma.github.io/resume)
+- 📄 Know about my experiences [resume](iammrverma.com)
 
 - ⚡ Fun fact **Pygame games are not for publishing.**
 
@@ -38,4 +32,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammrverma&show_icons=true&theme=dark&title_color=f92424&text_color=f52424&locale=en" alt="iammrverma" /></p>
 
 <br>
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
