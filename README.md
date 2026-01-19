@@ -1,4 +1,3 @@
-<img align="center" alt="banner"  src="banner.png">
 <h1 align="center">Hi 👋, I'm Raj Verma</h1>
 <h3 align="center">A greedy and curious learner and programmer.</h3>
 
@@ -28,7 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammrverma&show_icons=true&locale=en&layout=compact&theme=dark&title_color=f92424&text_color=f52424&" alt="iammrverma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammrverma&show_icons=true&theme=dark&title_color=f92424&text_color=f52424&locale=en" alt="iammrverma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammrverma&show_icons=true&theme=dark&title_color=f92424&text_color=f52424&locale=en" alt="iammrverma" /></p>
-
-<br>
